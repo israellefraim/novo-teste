@@ -13,7 +13,8 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 
 ## ✍🏻 Resumos das Aulas
 <details>
-<summary><strong>O QUE É VERSIONAMENTO DE CÓDIGO</strong></summary>  
+<summary><strong>O QUE É VERSIONAMENTO DE CÓDIGO</strong></summary>
+<br>
 
 Versionamento de código, também conhecido como controle de versão, é o processo de registrar e gerenciar as alterações feitas em um código.
 
@@ -28,7 +29,7 @@ Versionamento de código, também conhecido como controle de versão, é o proce
 
 <details>
 <summary><strong>CONFIGURANDO O GIT</strong></summary>
-Antes de começar a usar o Git, é essencial configurar seu nome e e-mail. Essas informações identificam suas alterações em projetos versionados.  
+<br>Antes de começar a usar o Git, é essencial configurar seu nome e e-mail. Essas informações identificam suas alterações em projetos versionados.  
 <br><br>
 
 <strong>✔️ Passo a Passo para configurar o Git:
@@ -61,7 +62,7 @@ Essas configurações são globais e aplicam-se a todos os projetos no seu compu
 
 <details>
 <summary><strong>CRIANDO E CLONANDO REPOSITÓRIOS LOCAIS/REMOTOS</summary></strong>
-Para trabalhar com Git, você pode criar um repositório local do zero e conectá-lo a um remoto (GitHub) ou clonar um repositório existente. Vamos ver ambos os métodos!
+<br>Para trabalhar com Git, você pode criar um repositório local do zero e conectá-lo a um remoto (GitHub) ou clonar um repositório existente. Vamos ver ambos os métodos!
 <br><br>
 
 <strong>✔️ Passo a Passo para Criar um Repositório Local e Conectá-lo ao Repositório Remoto:  
