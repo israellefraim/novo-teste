@@ -69,7 +69,7 @@ Essas configurações são globais e aplicam-se a todos os projetos no seu compu
 1. Abra o Git Bash</strong>
     - Execute o Git Bash na pasta onde deseja criar o repositório local
 
-2. <strong>Crie uma pasta para o projeto</strong>
+2. <strong>Crie uma pasta para o projeto e acesse ela</strong>
     ```bash
     mkdir repositorio-local
     cd repositorio-local
@@ -109,7 +109,7 @@ Essas configurações são globais e aplicam-se a todos os projetos no seu compu
 
     <em>(Cria uma pasta com o mesmo nome do repositório remoto)</em>
 
-3. <strong>Clone com nome personalizado</strong>
+3. <strong>Clone com um nome de pasta personalizado</strong>
     ```bash
     git clone https://github.com/seu-usuario/repositorio-remoto.git nome-personalizado
     ```
