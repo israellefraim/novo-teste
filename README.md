@@ -32,7 +32,7 @@ Versionamento de código, também conhecido como controle de versão, é o proce
 <br>Antes de começar a usar o Git, é essencial configurar seu nome e e-mail. Essas informações identificam suas alterações em projetos versionados.  
 <br><br>
 
-<strong>✔️ Passo a Passo para configurar o Git:
+<strong>✔️ PASSO A PASSO para configurar o Git:
 
 1. Abra o Git Bash </strong>
     - No Área de Trabalho, clique com o botão direito na tela e selecione <em>"Git Bash here"</em>.
@@ -65,7 +65,7 @@ Essas configurações são globais e aplicam-se a todos os projetos no seu compu
 <br>Para trabalhar com Git, você pode criar um repositório local do zero e conectá-lo a um remoto (GitHub) ou clonar um repositório existente. Vamos ver ambos os métodos!
 <br><br>
 
-<strong>✔️ Passo a Passo para Criar um Repositório Local e Conectá-lo ao Repositório Remoto:  
+<strong>✔️ PASSO A PASSO para Criar um Repositório Local e Conectá-lo ao Repositório Remoto:  
 1. Abra o Git Bash</strong>
     - Execute o Git Bash na pasta onde deseja criar o repositório local
 
@@ -98,7 +98,7 @@ Essas configurações são globais e aplicam-se a todos os projetos no seu compu
 
 <br>
 
-<strong>✔️ Passo a Passo para Clonar um Repositório Existente:  
+<strong>✔️ PASSO A PASSO para Clonar um Repositório Existente:  
 1. Abra o Git Bash</strong>
     - Execute o Git Bash na pasta onde deseja clonar o repositório.
 
